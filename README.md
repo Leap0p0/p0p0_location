@@ -3,11 +3,14 @@
 ## FR :
 
 Script de location de voiture en RageUI.
-ESX-compatible
+
+Compatible avec ESX.
 
 ## EN :
 
 Car rental script in RageUI.
+
+ESX-compatible.
 
 ## Requirements
 * [es-extended](https://github.com/Vanheden/es_extended)
