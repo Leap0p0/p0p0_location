@@ -12,6 +12,14 @@ Car rental script in RageUI.
 
 ESX-compatible.
 
+## Configuration
+You can change :
+
+* Language
+* Position of Ped
+* Position of Car spawn
+* Time of location
+* Time to put a warning message
 ## Requirements
 * [es-extended](https://github.com/Vanheden/es_extended)
 
